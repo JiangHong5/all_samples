@@ -10,5 +10,5 @@ if you want to use the images, you just need to use <img src="https://jianghong5
 
 ## about using .html files
 
-you might don't know that how can a html refered by a html. in fact, you can use <iframe> to "refer" a .html.
+you might think: how can a html refered by a html? in fact, you can use <iframe> to "refer" a .html.
 if you want to "refer" .html files, you can use <iframe src="https://jianghong5.github.io/all_samples/xxx" ...></iframe> to insert it in other files.
